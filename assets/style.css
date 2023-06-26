@@ -1,0 +1,32 @@
+header {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: white;
+    background-color: #581845;
+    text-align: right;
+    padding: 0;
+    /* outline: red dashed 1px; */
+}
+
+nav {
+    text-align: left;
+    color: aquamarine;
+    background-color: #581845;
+    /* outline: red dashed 1px; */
+}
+
+#link {
+    color: aquamarine;
+    /* outline: red dashed 1px; */
+}
+
+body {
+    background-color: #1E0028;
+    /* outline: red dashed 1px; */
+}
+
+aside {
+    background-color: #C5FFFE;
+    float: right;
+    /* outline: red dashed 1px; */
+}
