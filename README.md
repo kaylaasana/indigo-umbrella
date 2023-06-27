@@ -10,8 +10,10 @@ There are links in the navigation bar at the top of the page that directs you to
 
 Below you will find a screenshot of the deloyed webpage in full screen view and the compacted view for smaller screens.
 
+Full-screen view:
 ![screenshot of delpoyed webpage in fullscreen view](./assets/images/full-screen-capture.png)
 
+Smaller-screen view:
 ![screenshot of deployed webpage in smaller window view](./assets/images/compacted-screen-capture.png)
 
 ## Credits
