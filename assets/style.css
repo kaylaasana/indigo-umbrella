@@ -18,12 +18,13 @@ h1{
     display: flex;
     flex: row;
     justify-content: flex-start;
-    outline: red dashed 1px;*/
+    /*outline: red dashed 1px;*/
 }
 
 h2 {
     background-color: #C5FFFE;
     color: black;
+    font-size: 25px;
     margin: 5px;
     padding: 5px;
     border: 5px;
@@ -36,11 +37,13 @@ nav {
 
 body {
     background-color: #1E0028;
+    font-family: 'Courier New', Courier, monospace;
     /* outline: red dashed 1px; */
 }
 
 .about-me {
-    background-color: #C5FFFE;
+    background-color: #2cb8b5;
+    opacity: .5;
     color: black;
     width: 33vw;
     display: flex;
@@ -55,6 +58,7 @@ body {
     padding: 10px;
     margin: 0;
     border: 10px;
+    text-align: center;
 }
 
 #link {
@@ -67,6 +71,16 @@ body {
     width: 300px;
     height: 400px;
     /* outline: red dashed 1px; */    
+}
+
+article {
+    background-color: #3c9b99;
+}
+
+h3,
+h4 {
+    font-size: 30px;
+    margin: 20px;
 }
 
 /* .first-application {
@@ -89,8 +103,7 @@ footer {
     padding: 0px;
     margin: 0px;
     border: 0px;
-    justify-content:baseline;
-    outline: red dashed 1px;
+    /* outline: red dashed 1px; */
 }
 
 .main-content {
@@ -143,4 +156,37 @@ footer {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+}
+
+.first-application,
+.project-2,
+.project-3,
+.collaborative-projects {
+    font-size: 30px;
+    background-color: white;
+    color: black;
+    opacity: .5; 
+    display: flex;
+    justify-content: flex-end;   
+}
+
+h5{
+    font-size: 25px;
+    margin: 20px;
+    padding-top: 10px;
+}
+
+.resume,
+.contact-me {
+    background-color: black;
+    color: #3c9b99;
+}
+
+.footnote {
+    color: aliceblue;
+}
+
+.contact-info {
+    display: flex;
+    justify-content: space-around;
 }
