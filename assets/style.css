@@ -228,3 +228,23 @@ h6 {
         /* keep adding to this possibly, maybe make another one....definitely make another one. */
 }
 
+@media screen and (max-width:770px) {
+    .navigation {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        /*outline: red dashed 1px;*/
+    } 
+    .contact-info {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    } 
+    .pic-1,
+    .pic-2,
+    .pic-3,
+    .pic-4 {
+        width: auto;
+        height: auto;
+    } 
+}
