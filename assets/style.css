@@ -51,6 +51,7 @@ body {
     align-items: flex-end;
     flex-direction: column;
     padding-right: 10px;
+    margin-bottom: 0px;
     /* outline: red dashed 1px; */
 }
 
@@ -196,3 +197,34 @@ h6 {
     display: flex;
     justify-content: space-around;
 }
+
+@media screen and (max-width:994px) {
+    .main-content {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: space-between;
+    }
+    .about-me {
+        width: 100vw;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        flex-direction: column;
+        padding-right: 10px;
+        margin-bottom: 0px;
+        /* outline: red dashed 1px; */
+    }
+    h4 {
+        align-self: center;
+    }
+    .work-flex {
+        width: 100vw;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: space-evenly;        
+        margin-top: 20px;
+    }
+        /* keep adding to this possibly, maybe make another one....definitely make another one. */
+}
+
