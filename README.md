@@ -8,13 +8,9 @@ The purpose of this webpage is to present you with infomation about the author o
 
 There are links in the navigation bar at the top of the page that directs you to the corresponding location for that information on the page. The links in the "My Work" section will direct you to deloyed pages that I have created. The page has been made responsive to adjust to the user's screen size and display.
 
-Below you will find a screenshot of the deloyed webpage in full screen view and the compacted view for smaller screens.
+Below you will find a screenshot of the deloyed webpage.
 
-Full-screen view:
 ![screenshot of delpoyed webpage in fullscreen view](./assets/images/full-screen-capture.png)
-
-Compacted view:
-![screenshot of deployed webpage in smaller window view](./assets/images/compacted-screen-capture.png)
 
 ## Credits
 
