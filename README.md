@@ -13,7 +13,7 @@ Below you will find a screenshot of the deloyed webpage in full screen view and 
 Full-screen view:
 ![screenshot of delpoyed webpage in fullscreen view](./assets/images/full-screen-capture.png)
 
-Smaller-screen view:
+Compacted view:
 ![screenshot of deployed webpage in smaller window view](./assets/images/compacted-screen-capture.png)
 
 ## Credits
